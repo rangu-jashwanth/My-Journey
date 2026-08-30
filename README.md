@@ -12,4 +12,5 @@ The default timing is set for **Yeshanagula (From The Paradise) (Telugu)** at 16
 The `BASE_BPM` and `TURBO_BPM` values near the top of `stick dance.py` control the choreography clock.
 The animation changes movement every beat and smoothly blends between a six-pose choreography.
 Use Space to pause, `K` to skip forward 10 seconds, `T` to toggle turbo mode, `R` to restart the song, and Escape to quit.
+<br>
 This is all for only Stick Character Dance Program using Python
